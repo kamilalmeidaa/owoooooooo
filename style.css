@@ -1,18 +1,14 @@
+@import url("styles/header.css");
+:root {
+    --cor-de-fundo: #EBECEE;
+    }
 body{
     background-color: rgb(31, 31, 31);
 }
-h1{
-    color: rgb(255, 255, 255);
+.cabecalho {
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-p{
-    color: rgb(241, 235, 235);
-}
-
-.cabecalho{
-  background-color: darkred;
-  display: flex;
-  justify-content: space-between;
-
-
-}
