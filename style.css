@@ -3,7 +3,7 @@
     --cor-de-fundo: #EBECEE;
     }
 body{
-    background-color: rgb(213, 54, 91);
+    background-color: rgb(36, 36, 36);
 }
 .cabecalho {
     background-color: var(--branco);
@@ -11,7 +11,8 @@ body{
     justify-content: space-between;
     align-items: center;
 }
-.h1 {
+h1 {
  background-color: darkgrey;
+ position: center;
 }
 
