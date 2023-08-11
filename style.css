@@ -12,7 +12,9 @@ body{
     align-items: center;
 }
 h1 {
- background-color: darkgrey;
- position: center;
+ background-color: rgb(151, 1, 1);
+ position: var(--cor-de-fundo);
 }
-
+p {
+    background-color: aliceblue;
+}
