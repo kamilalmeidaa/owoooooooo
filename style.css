@@ -14,7 +14,9 @@ body{
 h1 {
  background-color: rgb(151, 1, 1);
  position: var(--cor-de-fundo);
+ text-align: center;
 }
 p {
     background-color: aliceblue;
+    text-align: center;
 }
